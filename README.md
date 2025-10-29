@@ -22,7 +22,7 @@ Supports endpoints for:
 
 ```bash
 git clone https://github.com/Oren-Homri/marvel-movies-home-task
-cd marvel-movies-home-assignment
+cd marvel-movies-home-task
 ```
 
 ### 2. Create `.env` file
