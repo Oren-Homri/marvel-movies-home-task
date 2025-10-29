@@ -21,7 +21,7 @@ Supports endpoints for:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Oren-Homri/marvel-movies-home-assignment
+git clone https://github.com/Oren-Homri/marvel-movies-home-task
 cd marvel-movies-home-assignment
 ```
 
