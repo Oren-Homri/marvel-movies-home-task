@@ -109,7 +109,7 @@ Returns a list of movies per actor:
 **Request:**
 
 ```bash
-curl "http://localhost:3000/moviesPerActor?actorName=Robert Downey Jr."
+curl "http://localhost:3000/moviesPerActor"
 ```
 
 **Response:**
